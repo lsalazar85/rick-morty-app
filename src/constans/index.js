@@ -1,0 +1,1 @@
+export const URL_LOGO = 'https://partner.redbubble.com/partnership-portal/client/eab637076b22c782edf0015a0ec3c686.png'
