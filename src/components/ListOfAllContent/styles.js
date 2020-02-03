@@ -1,4 +1,5 @@
 import styled from "styled-components";
+import { fadeIn } from '../../styles/animation'
 
 export const ListWrapper = styled.div`
     display:flex;
@@ -13,6 +14,8 @@ export const ListWrapper = styled.div`
         border: 1px solid red;
         width: 200px;
         height: 300px;
+        ${fadeIn()}
+
         & img {
             width: 200px;
         }
