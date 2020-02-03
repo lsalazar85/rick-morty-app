@@ -1,6 +1,6 @@
-# React Project Base
+# Rick & Morty App
 
-Base project with work dependencies
+Rick and Morty app from https://rickandmortyapi.com/
 
 
 ## Run
